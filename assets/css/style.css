@@ -1,0 +1,36 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+
+tr:hover{
+		height: 100% !important;/*Altura da linha*/
+		border-left:3px #7367F0 solid !important;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+		background-color: #7267f052 !important;
+}
+
+.card-title {
+	font-weight: bold !important;
+}
+
+label{
+	font-family: arial !important;
+	font-size: 1rem !important;
+}
+
+textarea {
+	text-transform: uppercase !important;
+	
+}
+
+
+
+
